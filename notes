@@ -1,0 +1,5 @@
+src/main/java - Keep all the source code which is to be pushed to Production
+src/main/resources - Files/Resources need to run the code in production like properties file and yml files etc
+
+src/test/java - Keeping unit testing code
+src/test/resources - Resources need to run the unit testing code like yml files, json files and properties files etc
